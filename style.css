@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(76, 72, 72);
+}
+.header-text-container{
+    color:antiquewhite;
+    background-color: black;
+    padding:10px;
+}
+.image-container{
+    border-radius: 100%;
+}
+#profile-image{
+    border-radius: 100%;
+    
+}
